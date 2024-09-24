@@ -42,9 +42,6 @@ Explore the interactive dashboard created for this project: [Interactive Dashboa
 
 This project not only highlights the analysis of the online retail store's performance but also provides actionable insights to support strategic decision-making. The dashboard serves as a key resource for the CEO and CMO to visualize important metrics and trends.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
