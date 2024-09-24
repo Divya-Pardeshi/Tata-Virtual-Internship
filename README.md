@@ -24,7 +24,9 @@ The project is structured into four main tasks:
   
 ## Dashboard Screenshot
 Below is a screenshot of the dashboard for quick reference:
-[DashboardScreenshot](https://github.com/user-attachments/assets/7c4d6378-bffd-4da6-ba98-0b0a87d60fda)
+
+![DashboardScreenshot](https://github.com/user-attachments/assets/fbd0a20b-098a-41e4-b037-a8a8f94e0058)
+
 
 
 ## Interactive Dashboard
